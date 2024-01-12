@@ -394,6 +394,11 @@ body {
   padding: 0;
   margin: 0;
 }
+
+.advantages-town {
+  display: grid;
+}
+
 .advantages-town-list {
   display: flex;
   flex-wrap: wrap;
